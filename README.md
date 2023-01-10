@@ -5,3 +5,7 @@ docker run --name spb_db --rm -e  POSTGRES_PASSWORD=pass123 -e POSTGRES_DB=stude
 docker ps
 
 dockere volume rm pgdata14
+
+22013
+22155
+22030
